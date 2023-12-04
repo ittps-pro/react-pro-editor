@@ -1,0 +1,14 @@
+{
+  "description": "An auto-generated demo by dumi",
+  "dependencies": {
+    "@ant-design/pro-editor": "^0.29.1",
+    "antd": ">=5",
+    "antd-style": ">=3",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "axios": "latest"
+  },
+  "devDependencies": {
+    "typescript": "^4"
+  }
+}
